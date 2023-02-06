@@ -45,7 +45,7 @@ app.post('/challenge', function(req, res) {
     let is_success = true;
     let user_id = "sayan_sahu_05112000";
     let roll_number = "19070122150";
-    let email = "sayan.sahu.btech2019@sitpune.edu.in"; 
+    let email = "xyz@gmail.com"; 
 
     response = {
         count: count,
